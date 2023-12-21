@@ -6,6 +6,7 @@
 | SofiDev | ![portfolio red](https://github.com/SofiDevO/portfolio-inspiration/assets/102200061/4d437b01-baa2-41b9-9e03-c6b7aaf78344)                         | [mi-primer-portafolio](https://sofidevo.github.io/mi-primer-portafolio/) | [Github](https://github.com/SofiDevO/mi-primer-portafolio)     | HTML , CSS                    |
 | SofiDev | ![Captura de pantalla 2023-12-13 182050](https://github.com/SofiDevO/portfolio-inspiration/assets/102200061/d4dac231-9754-404e-b499-ffb562404c8e) | [portafolio-claro](https://sofidevo.github.io/portafolio-claro/)         | [GiHub](https://github.com/SofiDevO/portafolio-claro)          | HTML, CSS                     |
 | SofiDev | ![astro_portfolio](https://github.com/SofiDevO/portfolio-inspiration/assets/102200061/7ac0fa64-41ee-45ca-93db-b664de510876)                       | [Astro-portfolio](https://portfoli-sofidev-astro.vercel.app/)            | [GitHub](https://github.com/SofiDevO/template-astro-portfolio) | Astro, tailwind, react        |
+| DiegoIribe | ![image](https://github.com/Diegoiribe/portfolio-inspiration/assets/130528284/7061addc-8de4-4737-a726-ac4e161e048c) |https://diegoiribe.github.io/CV/| [GitHub](https://github.com/Diegoiribe/CV) | HTML, CSS, JS      |
 
 ## Portfolio-Inspiration Contribution Guidelines
 
